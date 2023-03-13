@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input{
+  @apply bg-slate-100 px-4 py-1 border border-slate-400 rounded-xl;
+}
